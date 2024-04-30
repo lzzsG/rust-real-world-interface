@@ -213,7 +213,7 @@ a>.hljs {
 
 .nav-wrapper {
     display: block;
-    max-width: 800px;
+    max-width: 1200px;
     text-align: center;
     border-top: 1px solid var(--table-border-color);
 
@@ -790,7 +790,7 @@ ul#searchresults span.teaser em {
     margin-bottom: 40px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1200px) {
 
     /* Adjust or hide navigation for smaller screens */
     .current-content-toc {
